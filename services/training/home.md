@@ -1,0 +1,1 @@
+Training by tech and non tech people can be done by contacting us. We suggest it follow [this structure](%urlOf-root%work/).

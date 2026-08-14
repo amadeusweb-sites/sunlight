@@ -3,6 +3,9 @@ variables([
 	VARLinkToSectionHome => true,
 ]);
 
+if (nodeIs(SITEHOME))
+	setHtmlVariable(VARWelcomeMessage, getSnippet('welcome'));
+
 function site_before_render() {
-	autosetPageMenu();
+	autosetPageMenu([VARLinkToSubnodeHome => true]);
 }

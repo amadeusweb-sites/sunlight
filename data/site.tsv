@@ -5,7 +5,8 @@ safeName	sunlight
 iconName	JE Sunlight
 footer-message	For Exemplary Close Knit Teams
 siteMenuName	ES Home
-sections	L & D: learning+mentoring+opus, Spaces: growth+healing
+sections	Develop: learning+mentoring+courses, Spaces: growth+healing+opus+services+people
 local-url	http://localhost/sunlight/work/
 live-url	https://work.joyfulearth.org/
+mediakit	?slim=yes&no-logo=yes
 year	2019

@@ -1,0 +1,1 @@
+Teams can be given email templates to manage processs, as per [this](%urlOf-root%teams/).

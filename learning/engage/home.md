@@ -3,4 +3,6 @@ About: Post training engagement phase where momentum is maintained and takers ar
 Meta Author: `Imran`
 //meta-->
 
-## %nodeName%
+## Engage after Training
+
+In this section, we will refresh the topics covered, and reinforce habits formed.
