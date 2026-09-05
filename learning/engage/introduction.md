@@ -21,7 +21,7 @@ We understand people so design the ecosystem to breed trust.
 
 ---
 
-Staff can send feedback to
+## Staff can send feedback to
 
 * self/ family/ friends
 * trainers/mentors/hr
