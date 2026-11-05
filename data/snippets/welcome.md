@@ -10,9 +10,9 @@ Welcome to the work initiative of [DAWN](%urlOf-root%explore/). A place for cons
 * Ideas and [services](%url%services/)
 * Freebies and pro bono work
 * Brainstorming consulting
-* Generic [**courses**](%url%courses/~~TARGETNEW)
+* Generic [**courses**](%url%courses/NEWTAB)
 * Sample employee portal
-* [**Opus**](%url%opus/~~TARGETNEW) structured templates.
+* [**Opus**](%url%opus/NEWTAB) structured templates.
 
 Which would you like to know more about?
 
